@@ -19,7 +19,8 @@ class Projects extends Component {
                     </CardTitle>
                     <CardText>
                        This app is simple JavaScript To Do App. 
-                       It has the functionality of adding new items and deleting them any time 
+                       It has the functionality of adding new items and deleting them any time. 
+                       JavaScript/HTML/CSS
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/myJavaScriptprojects/tree/master/toDoList' target='blank'><Button colored> Go To Code</Button></a>
@@ -33,8 +34,10 @@ class Projects extends Component {
                     }}>Simple Calculator
                     </CardTitle>
                     <CardText>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                         industry. Lorem Ipsum has been the industry's 
+                        This is a simple calculator app with the all of the simple calculators' functions.
+                        JavaScript/HTML/CSS
+                        <br/> <br/>
+                        
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/myJavaScriptprojects/tree/master/calculator' target='blank'><Button colored> Go To Code</Button></a>
@@ -48,8 +51,8 @@ class Projects extends Component {
                     }}> Blog Site
                     </CardTitle>
                     <CardText>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                         industry. Lorem Ipsum has been the industry's 
+                       This site is only layout with some CSS animations for
+                       Blog site. JavaScript/HTML/CSS <br/><br/>
                     </CardText>
                     <CardActions border>
                     <a href='https://github.com/Jack92-hub/myJavaScriptprojects/tree/master/navToggle' target='blank'> <Button colored> Go To Code</Button></a>
@@ -63,8 +66,9 @@ class Projects extends Component {
                     }}> Tip Calculator
                     </CardTitle>
                     <CardText>
-                       This app is simple JavaScript To Do App. 
-                       It has the functionality of adding new items and deleting them any time 
+                       This app has the functionality of calculating your 
+                       tip by service quality and number of people 
+                       JavaScript/HTML/CSS <br/><br/>
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/myJavaScriptprojects/tree/master/tipCalculator' target='blank'><Button colored> Go To Code</Button></a>
@@ -83,9 +87,9 @@ class Projects extends Component {
                     }}>Burger Project
                     </CardTitle>
                     <CardText>
-                        This react app is about building burger with ingredients. Redux
-                        Library is uded for state management. For the back-end firebase 
-                        environment(Rest API) is used
+                        This react app is about building burger with ingredients after 
+                        getting authenticated.
+                         Mobile friendly/HTML/CSS/ES6/React/Redux/Firebase RestAPI and Hosting<br/><br/>
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/BurgerProject' target='blank'> <Button colored> Go To Code</Button></a>
@@ -99,8 +103,10 @@ class Projects extends Component {
                     }}>React Hooks Project
                     </CardTitle>
                     <CardText>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                         industry. Lorem Ipsum has been the industry's 
+                        This app is just a practice of using ReactHooks.
+                        New ingredients could be added and deleted. Ingredients
+                         could be shown through filtered
+                         HTML/CSS/ES6/React/React-Hooks/Firebase RestAPI and Hosting
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/ReactHooksProject' target='blank'> <Button colored> Go To Code</Button></a>
@@ -115,12 +121,12 @@ class Projects extends Component {
                     }}>My Portfolio Site
                     </CardTitle>
                     <CardText>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                         industry. Lorem Ipsum has been the industry's 
+                        This site is my portfolio site which is being shown currently.
+                        Mobile friendly/HTML/CSS/ES6/React/React-MDL Library/Firebase Hosting<br/><br/><br/>
                     </CardText>
                     <CardActions border>
-                        <a href='https://github.com/Jack92-hub/ReactHooksProject' target='blank'> <Button colored> Go To Code</Button></a>
-                        <a href='https://use-react-hooks.firebaseapp.com' target='blank'><Button colored>Go To Website</Button></a>
+                        <a href='https://github.com/Jack92-hub/MyPortfolio' target='blank'> <Button colored> Go To Code</Button></a>
+                        <a href='https://myportfolio-96862.firebaseapp.com' target='blank'><Button colored>Go To Website</Button></a>
                     </CardActions>  
                 </Card>
             </div>
