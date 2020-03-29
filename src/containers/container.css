@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+.Home{
+    height: 638px;
+    text-align: center;
+    background-color: rgba(34, 31, 31, .7);
+}
+.Home h3 {
+    font-weight: bold;
+    font-size: 3em;
+    font-family: monospace;
+    line-height: 2em;
+    padding-top: 0px;
+    color: rgb(62, 208, 245)
+}
+.Home span {
+    color: #f3a54b
+}
+@media (max-width: 499px) {
+    .Home h3 {
+        font-size: 20px;
+    }
+}
+.Image {
+    height: 250px;
+    margin-top: 4em;
+    border-radius: 50%;
+    width: 250px;
+    overflow: hidden;
+    border-width: 3;
+}
+.Card {
+    display: flex;
+    flex-flow: column;
+}
+@media (min-width: 500px) {
+    .Card {
+        flex-flow: row;
+    }
+}
+.contactBody {
+    margin: auto;   
+    width: 100%;
+    top: 2em;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+    background-color: rgb(34, 32, 32);
+}
+
+.contactGrid {
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    height: 600px;
+    background:  rgb(34, 32, 32);
+    color: white;
+    margin-bottom: 20px;
+}
+.List {
+    font-size: 30px;
+    color: white
+}
+.fa {
+    font-size: 50px;
+    padding-right: 2em;
+    color: white
+}
+@media (max-width: 499px) {
+    .List {
+        font-size: 15px;
+    }
+    .fa {
+        font-size: 40px;
+        padding-right: 1em;
+    }
+    .contactGrid{
+        height: 1200px;
+    }
+}

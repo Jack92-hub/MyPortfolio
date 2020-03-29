@@ -1,0 +1,44 @@
+.newcard {
+    display: flex;
+    align-items: center;
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    background-color: white;
+}
+.newcard img {
+    margin: 20px 
+}
+.newcard h5 {
+    padding-left: 45px;
+    font-weight: bold;
+}
+.section1 h3 {
+    padding: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: 35px
+}
+.section1 hr {
+    border: 2px solid blue;
+    width: 20%;
+}
+.section1 p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.section2 {
+    background-color: #eee;
+}
+.section2 h4 {
+    margin-left: 50px;
+    padding-top: 15px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+@media (max-width: 499px) {
+    .newcard {
+        width: 350px;
+    }
+}
