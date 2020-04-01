@@ -126,7 +126,7 @@ class Projects extends Component {
                     </CardText>
                     <CardActions border>
                         <a href='https://github.com/Jack92-hub/MyPortfolio' target='blank'> <Button colored> Go To Code</Button></a>
-                        <a href='https://myportfolio-96862.firebaseapp.com' target='blank'><Button colored>Go To Website</Button></a>
+                        <a href='https://myportfolio-596b4.firebaseapp.com' target='blank'><Button colored>Go To Website</Button></a>
                     </CardActions>  
                 </Card>
             </div>
